@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Krish Gupta </span>
             from <span className="purple"> Agra, India.</span>
             <br />
-            I am currently pursuing Btech with Computer Science and Engineering from GLA University Mathura.
+            I am currently pursuing Btech with Computer Science and Engineering from GLA University Mathura. I have a strong foundation in full-stack development, also worked on complex systems like a hospital management system, credit card point calculators, and a Python-based desktop agent application for tracking employee activity.
             {/* <br />
             {/* I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
             Mesra. */}

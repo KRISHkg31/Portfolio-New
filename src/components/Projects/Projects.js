@@ -25,9 +25,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Health Safety Application (MERN-STACK)"
-              description="A Health Safety Application built with React.js, Material-UI, and Firebase. This application helps individuals in emergencies by allowing them to quickly contact local police, hospitals, and relatives. Users can stay informed about the latest health guidelines, share important resources, and ensure they can reach out for help when needed."
-              // ghLink="https://github.com/soumyajit4419/Chatify"
+              title="HospitaL Management System (Full - Stack)"
+              description="A Hospital Management System using the MERN stack, which streamlined patient data management, appointment scheduling, and billing. The system featured user authentication, role-based access for staff, and real-time updates on patient records, improving overall efficiency and ensuring secure medical data handling."
+              // ghLink="https://github.com/KRISHkg31/Hospital_Managment_System1"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -47,7 +47,7 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Crop Yield Prediction (MERN-STACK)"
+              title="Crop Yield Prediction (MERN - Stack)"
               description="Developed a comprehensive web application using React, Node.js, Postman, and MongoDB to assist farmers in predicting and selling crops efficiently. The application predicts crop yields based on various environmental and agricultural data, helping farmers make informed decisions about which crops to plant. This solution empowers farmers with actionable insights and streamlined market access, ultimately enhancing their productivity and profitability."
               // ghLink="https://github.com/soumyajit4419/Plant_AI"
               // demoLink="https://plant49-ai.herokuapp.com/"
@@ -58,8 +58,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Banking System Application (BACK-END)"
-              description="Led the end-to-end development of a cutting-edge Banking Application, incorporating advanced features like balancechecking and fund transfer, resulting in a 30(%) increase in user engagement.Achieving 100(%) funtionality with 50(%) enhanced scalability through DevOps."
+              title="Desktop - Agent Application (Full - Stack)"
+              description="I developed a full-stack Desktop Agent Application using Python (FastAPI) and React.js. It monitors user activity and captures screenshots at configurable intervals (1, 5, or 10 minutes). The system handles large file uploads efficiently using chunking or compression and ensures secure, encrypted data transfer with robust error handling mechanisms."
               // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
